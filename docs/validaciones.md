@@ -9,3 +9,8 @@ un proceso de esterilización.
 - La bandeja debe estar identificada.
 - El instrumento debe estar identificado.
 - El resultado del procesamiento debe ser válido.
+
+## Resultado del procesamiento
+
+El resultado del procesamiento podrá indicar si el proceso fue
+conforme o rechazado.
