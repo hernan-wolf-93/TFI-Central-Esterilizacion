@@ -10,3 +10,8 @@ relacionados con la esterilización del instrumental quirúrgico.
 3. Procesamiento en autoclave.
 4. Registro del resultado.
 5. Trazabilidad del proceso.
+
+## Información registrada
+
+El sistema deberá permitir identificar el lote, la bandeja,
+el instrumento y el proceso de esterilización correspondiente.
