@@ -5,11 +5,11 @@ relacionados con la esterilización del instrumental quirúrgico.
 
 ## Etapas
 
-1. Identificacion del instrumental.
-2. Preparación de la bandeja.
-3. Esterilizacion mediante autoclave.
-4. Control del resultado.
-5. Registro de la trazabilidad.
+1. Identificacion y registro del instrumental.
+2. Preparación y armado de la bandeja.
+3. Procesamiento mediante autoclave.
+4. Control y registro del resultado.
+5. Trazabilidad del proceso.
 
 ## Información registrada
 
